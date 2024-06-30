@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AirportCalculator.Presentation.WebApi.props" />
+</Project>

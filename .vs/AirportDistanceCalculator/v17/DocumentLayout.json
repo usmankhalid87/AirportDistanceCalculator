@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF341094-80C0-420F-B998-2AA387591878}|AirportDistanceCalculator.IntegrationTests\\AirportDistanceCalculator.IntegrationTests.csproj|d:\\projects\\distancecalculator\\airportdistancecalculator\\airportdistancecalculator\\airportdistancecalculator.integrationtests\\controllers\\airportdistancecalculatorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF341094-80C0-420F-B998-2AA387591878}|AirportDistanceCalculator.IntegrationTests\\AirportDistanceCalculator.IntegrationTests.csproj|solutionrelative:airportdistancecalculator.integrationtests\\controllers\\airportdistancecalculatorcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF341094-80C0-420F-B998-2AA387591878}|AirportDistanceCalculator.IntegrationTests\\AirportDistanceCalculator.IntegrationTests.csproj|d:\\projects\\distancecalculator\\airportdistancecalculator\\airportdistancecalculator\\airportdistancecalculator.integrationtests\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF341094-80C0-420F-B998-2AA387591878}|AirportDistanceCalculator.IntegrationTests\\AirportDistanceCalculator.IntegrationTests.csproj|solutionrelative:airportdistancecalculator.integrationtests\\testbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DDC72C-9F76-406D-9CBB-0C832240CE1A}|AirportDistanceCalculator.Infrastructure\\AirportDistanceCalculator.Infrastructure.csproj|d:\\projects\\distancecalculator\\airportdistancecalculator\\airportdistancecalculator\\airportdistancecalculator.infrastructure\\airportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DDC72C-9F76-406D-9CBB-0C832240CE1A}|AirportDistanceCalculator.Infrastructure\\AirportDistanceCalculator.Infrastructure.csproj|solutionrelative:airportdistancecalculator.infrastructure\\airportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2AEF4A-1884-4037-8F63-30A016BFC6E1}|AirportDistanceCalculator.Core.Application\\AirportDistanceCalculator.Core.Application.csproj|d:\\projects\\distancecalculator\\airportdistancecalculator\\airportdistancecalculator\\airportdistancecalculator.core.application\\features\\airportdistance\\handlers\\calculateairportdistancecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2AEF4A-1884-4037-8F63-30A016BFC6E1}|AirportDistanceCalculator.Core.Application\\AirportDistanceCalculator.Core.Application.csproj|solutionrelative:airportdistancecalculator.core.application\\features\\airportdistance\\handlers\\calculateairportdistancecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B901ABBC-7EBD-499A-BE75-DEA712744392}|AirportCalculator.Presentation.WebApi\\AirportCalculator.Presentation.WebApi.csproj|d:\\projects\\distancecalculator\\airportdistancecalculator\\airportdistancecalculator\\airportcalculator.presentation.webapi\\controllers\\airportdistancecalculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B901ABBC-7EBD-499A-BE75-DEA712744392}|AirportCalculator.Presentation.WebApi\\AirportCalculator.Presentation.WebApi.csproj|solutionrelative:airportcalculator.presentation.webapi\\controllers\\airportdistancecalculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF341094-80C0-420F-B998-2AA387591878}|AirportDistanceCalculator.IntegrationTests\\AirportDistanceCalculator.IntegrationTests.csproj|d:\\projects\\distancecalculator\\airportdistancecalculator\\airportdistancecalculator\\airportdistancecalculator.integrationtests\\testwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF341094-80C0-420F-B998-2AA387591878}|AirportDistanceCalculator.IntegrationTests\\AirportDistanceCalculator.IntegrationTests.csproj|solutionrelative:airportdistancecalculator.integrationtests\\testwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8DDC72C-9F76-406D-9CBB-0C832240CE1A}|AirportDistanceCalculator.Infrastructure\\AirportDistanceCalculator.Infrastructure.csproj|d:\\projects\\distancecalculator\\airportdistancecalculator\\airportdistancecalculator\\airportdistancecalculator.infrastructure\\airportdistanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8DDC72C-9F76-406D-9CBB-0C832240CE1A}|AirportDistanceCalculator.Infrastructure\\AirportDistanceCalculator.Infrastructure.csproj|solutionrelative:airportdistancecalculator.infrastructure\\airportdistanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2AEF4A-1884-4037-8F63-30A016BFC6E1}|AirportDistanceCalculator.Core.Application\\AirportDistanceCalculator.Core.Application.csproj|d:\\projects\\distancecalculator\\airportdistancecalculator\\airportdistancecalculator\\airportdistancecalculator.core.application\\messages\\validationerrormessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2AEF4A-1884-4037-8F63-30A016BFC6E1}|AirportDistanceCalculator.Core.Application\\AirportDistanceCalculator.Core.Application.csproj|solutionrelative:airportdistancecalculator.core.application\\messages\\validationerrormessages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A2AEF4A-1884-4037-8F63-30A016BFC6E1}|AirportDistanceCalculator.Core.Application\\AirportDistanceCalculator.Core.Application.csproj|d:\\projects\\distancecalculator\\airportdistancecalculator\\airportdistancecalculator\\airportdistancecalculator.core.application\\customvalidations\\calculateairportdistancecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A2AEF4A-1884-4037-8F63-30A016BFC6E1}|AirportDistanceCalculator.Core.Application\\AirportDistanceCalculator.Core.Application.csproj|solutionrelative:airportdistancecalculator.core.application\\customvalidations\\calculateairportdistancecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestBase.cs",
+              "DocumentMoniker": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.IntegrationTests\\TestBase.cs",
+              "RelativeDocumentMoniker": "AirportDistanceCalculator.IntegrationTests\\TestBase.cs",
+              "ToolTip": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.IntegrationTests\\TestBase.cs",
+              "RelativeToolTip": "AirportDistanceCalculator.IntegrationTests\\TestBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T16:40:53.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AirportDistanceCalculatorControllerTests.cs",
+              "DocumentMoniker": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.IntegrationTests\\Controllers\\AirportDistanceCalculatorControllerTests.cs",
+              "RelativeDocumentMoniker": "AirportDistanceCalculator.IntegrationTests\\Controllers\\AirportDistanceCalculatorControllerTests.cs",
+              "ToolTip": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.IntegrationTests\\Controllers\\AirportDistanceCalculatorControllerTests.cs",
+              "RelativeToolTip": "AirportDistanceCalculator.IntegrationTests\\Controllers\\AirportDistanceCalculatorControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T16:36:24.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculateAirportDistanceCommandHandler.cs",
+              "DocumentMoniker": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Core.Application\\Features\\AirportDistance\\Handlers\\CalculateAirportDistanceCommandHandler.cs",
+              "RelativeDocumentMoniker": "AirportDistanceCalculator.Core.Application\\Features\\AirportDistance\\Handlers\\CalculateAirportDistanceCommandHandler.cs",
+              "ToolTip": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Core.Application\\Features\\AirportDistance\\Handlers\\CalculateAirportDistanceCommandHandler.cs",
+              "RelativeToolTip": "AirportDistanceCalculator.Core.Application\\Features\\AirportDistance\\Handlers\\CalculateAirportDistanceCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T16:35:56.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestWebApplicationFactory.cs",
+              "DocumentMoniker": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.IntegrationTests\\TestWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "AirportDistanceCalculator.IntegrationTests\\TestWebApplicationFactory.cs",
+              "ToolTip": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.IntegrationTests\\TestWebApplicationFactory.cs",
+              "RelativeToolTip": "AirportDistanceCalculator.IntegrationTests\\TestWebApplicationFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T15:15:56.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AirportService.cs",
+              "DocumentMoniker": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Infrastructure\\AirportService.cs",
+              "RelativeDocumentMoniker": "AirportDistanceCalculator.Infrastructure\\AirportService.cs",
+              "ToolTip": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Infrastructure\\AirportService.cs",
+              "RelativeToolTip": "AirportDistanceCalculator.Infrastructure\\AirportService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T15:09:27.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AirportDistanceService.cs",
+              "DocumentMoniker": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Infrastructure\\AirportDistanceService.cs",
+              "RelativeDocumentMoniker": "AirportDistanceCalculator.Infrastructure\\AirportDistanceService.cs",
+              "ToolTip": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Infrastructure\\AirportDistanceService.cs",
+              "RelativeToolTip": "AirportDistanceCalculator.Infrastructure\\AirportDistanceService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T14:53:01.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AirportDistanceCalculatorController.cs",
+              "DocumentMoniker": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportCalculator.Presentation.WebApi\\Controllers\\AirportDistanceCalculatorController.cs",
+              "RelativeDocumentMoniker": "AirportCalculator.Presentation.WebApi\\Controllers\\AirportDistanceCalculatorController.cs",
+              "ToolTip": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportCalculator.Presentation.WebApi\\Controllers\\AirportDistanceCalculatorController.cs",
+              "RelativeToolTip": "AirportCalculator.Presentation.WebApi\\Controllers\\AirportDistanceCalculatorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T13:38:56.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValidationErrorMessages.cs",
+              "DocumentMoniker": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Core.Application\\Messages\\ValidationErrorMessages.cs",
+              "RelativeDocumentMoniker": "AirportDistanceCalculator.Core.Application\\Messages\\ValidationErrorMessages.cs",
+              "ToolTip": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Core.Application\\Messages\\ValidationErrorMessages.cs",
+              "RelativeToolTip": "AirportDistanceCalculator.Core.Application\\Messages\\ValidationErrorMessages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T13:17:48.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CalculateAirportDistanceCommandValidator.cs",
+              "DocumentMoniker": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Core.Application\\CustomValidations\\CalculateAirportDistanceCommandValidator.cs",
+              "RelativeDocumentMoniker": "AirportDistanceCalculator.Core.Application\\CustomValidations\\CalculateAirportDistanceCommandValidator.cs",
+              "ToolTip": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Core.Application\\CustomValidations\\CalculateAirportDistanceCommandValidator.cs",
+              "RelativeToolTip": "AirportDistanceCalculator.Core.Application\\CustomValidations\\CalculateAirportDistanceCommandValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T11:42:56.67Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

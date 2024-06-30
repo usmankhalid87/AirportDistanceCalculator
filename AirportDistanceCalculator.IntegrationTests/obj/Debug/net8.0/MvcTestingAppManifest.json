@@ -1,0 +1,5 @@
+{
+  "AirportCalculator.Presentation.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportCalculator.Presentation.WebApi",
+  "AirportDistanceCalculator.Core.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Core.Application",
+  "AirportDistanceCalculator.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Infrastructure"
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zugTvG48YTDIAZ5cH4uXX9S5NqRozIxGQmK7PhQi74YeoOravFSVZsHMyOv7O6Ti4oBowQXdur8mgm+Xsp7DMg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Core.Application\\AirportDistanceCalculator.Core.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usman\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
+    "C:\\Users\\usman\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.0\\fluentvalidation.dependencyinjectionextensions.11.9.0.nupkg.sha512",
+    "C:\\Users\\usman\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\usman\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\usman\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\usman\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

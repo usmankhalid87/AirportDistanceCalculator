@@ -1,0 +1,47 @@
+[
+  {
+    "ContainingType": "AirportCalculator.Presentation.WebApi.Controllers.AirportDistanceCalculatorController",
+    "Method": "CalculateAirportsDistance",
+    "RelativePath": "api/AirportDistanceCalculator/airports-distance/{originAirportCode}/{destinationAirportCode}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "originAirportCode",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "destinationAirportCode",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AirportDistanceCalculator.Core.Application.Models.AirportsDistance",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      },
+      {
+        "Type": "Microsoft.AspNetCore.Mvc.ProblemDetails",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 400
+      },
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 500
+      }
+    ]
+  }
+]

@@ -1,0 +1,15 @@
+D:\Projects\DistanceCalculator\AirportDistanceCalculator\AirportDistanceCalculator\AirportCalculator.Core.Services\obj\Debug\net8.0\AirportCalculator.Core.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DistanceCalculator\AirportDistanceCalculator\AirportDistanceCalculator\AirportCalculator.Core.Services\obj\Debug\net8.0\AirportCalculator.Core.Services.AssemblyInfoInputs.cache
+D:\Projects\DistanceCalculator\AirportDistanceCalculator\AirportDistanceCalculator\AirportCalculator.Core.Services\obj\Debug\net8.0\AirportCalculator.Core.Services.AssemblyInfo.cs
+D:\Projects\DistanceCalculator\AirportDistanceCalculator\AirportDistanceCalculator\AirportCalculator.Core.Services\obj\Debug\net8.0\AirportCalculator.Core.Services.csproj.CoreCompileInputs.cache
+D:\Projects\DistanceCalculator\AirportDistanceCalculator\AirportDistanceCalculator\AirportCalculator.Core.Services\bin\Debug\net8.0\AirportCalculator.Core.Services.deps.json
+D:\Projects\DistanceCalculator\AirportDistanceCalculator\AirportDistanceCalculator\AirportCalculator.Core.Services\bin\Debug\net8.0\AirportCalculator.Core.Services.dll
+D:\Projects\DistanceCalculator\AirportDistanceCalculator\AirportDistanceCalculator\AirportCalculator.Core.Services\bin\Debug\net8.0\AirportCalculator.Core.Services.pdb
+D:\Projects\DistanceCalculator\AirportDistanceCalculator\AirportDistanceCalculator\AirportCalculator.Core.Services\bin\Debug\net8.0\AirportDistanceCalculator.Core.Application.dll
+D:\Projects\DistanceCalculator\AirportDistanceCalculator\AirportDistanceCalculator\AirportCalculator.Core.Services\bin\Debug\net8.0\AirportDistanceCalculator.Core.Application.pdb
+D:\Projects\DistanceCalculator\AirportDistanceCalculator\AirportDistanceCalculator\AirportCalculator.Core.Services\obj\Debug\net8.0\AirportCalculator.Core.Services.csproj.AssemblyReference.cache
+D:\Projects\DistanceCalculator\AirportDistanceCalculator\AirportDistanceCalculator\AirportCalculator.Core.Services\obj\Debug\net8.0\AirportC.3B16E1D2.Up2Date
+D:\Projects\DistanceCalculator\AirportDistanceCalculator\AirportDistanceCalculator\AirportCalculator.Core.Services\obj\Debug\net8.0\AirportCalculator.Core.Services.dll
+D:\Projects\DistanceCalculator\AirportDistanceCalculator\AirportDistanceCalculator\AirportCalculator.Core.Services\obj\Debug\net8.0\refint\AirportCalculator.Core.Services.dll
+D:\Projects\DistanceCalculator\AirportDistanceCalculator\AirportDistanceCalculator\AirportCalculator.Core.Services\obj\Debug\net8.0\AirportCalculator.Core.Services.pdb
+D:\Projects\DistanceCalculator\AirportDistanceCalculator\AirportDistanceCalculator\AirportCalculator.Core.Services\obj\Debug\net8.0\ref\AirportCalculator.Core.Services.dll

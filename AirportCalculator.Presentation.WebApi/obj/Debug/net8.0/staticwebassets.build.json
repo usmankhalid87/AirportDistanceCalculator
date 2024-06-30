@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zndiEyyqiuh/36MDdNiUzDDu/1+cfem7QCBFCPguziE=",
+  "Source": "AirportCalculator.Presentation.WebApi",
+  "BasePath": "_content/AirportCalculator.Presentation.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

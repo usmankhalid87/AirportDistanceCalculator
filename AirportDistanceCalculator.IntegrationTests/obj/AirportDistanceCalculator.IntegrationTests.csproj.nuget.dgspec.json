@@ -1,0 +1,352 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.IntegrationTests\\AirportDistanceCalculator.IntegrationTests.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportCalculator.Presentation.WebApi\\AirportCalculator.Presentation.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportCalculator.Presentation.WebApi\\AirportCalculator.Presentation.WebApi.csproj",
+        "projectName": "AirportCalculator.Presentation.WebApi",
+        "projectPath": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportCalculator.Presentation.WebApi\\AirportCalculator.Presentation.WebApi.csproj",
+        "packagesPath": "C:\\Users\\usman\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportCalculator.Presentation.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\usman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Core.Application\\AirportDistanceCalculator.Core.Application.csproj": {
+                "projectPath": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Core.Application\\AirportDistanceCalculator.Core.Application.csproj"
+              },
+              "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Infrastructure\\AirportDistanceCalculator.Infrastructure.csproj": {
+                "projectPath": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Infrastructure\\AirportDistanceCalculator.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Core.Application\\AirportDistanceCalculator.Core.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Core.Application\\AirportDistanceCalculator.Core.Application.csproj",
+        "projectName": "AirportDistanceCalculator.Core.Application",
+        "projectPath": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Core.Application\\AirportDistanceCalculator.Core.Application.csproj",
+        "packagesPath": "C:\\Users\\usman\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Core.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\usman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Infrastructure\\AirportDistanceCalculator.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Infrastructure\\AirportDistanceCalculator.Infrastructure.csproj",
+        "projectName": "AirportDistanceCalculator.Infrastructure",
+        "projectPath": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Infrastructure\\AirportDistanceCalculator.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\usman\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\usman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Core.Application\\AirportDistanceCalculator.Core.Application.csproj": {
+                "projectPath": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Core.Application\\AirportDistanceCalculator.Core.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Http.Polly": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.IntegrationTests\\AirportDistanceCalculator.IntegrationTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.IntegrationTests\\AirportDistanceCalculator.IntegrationTests.csproj",
+        "projectName": "AirportDistanceCalculator.IntegrationTests",
+        "projectPath": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.IntegrationTests\\AirportDistanceCalculator.IntegrationTests.csproj",
+        "packagesPath": "C:\\Users\\usman\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.IntegrationTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\usman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportCalculator.Presentation.WebApi\\AirportCalculator.Presentation.WebApi.csproj": {
+                "projectPath": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportCalculator.Presentation.WebApi\\AirportCalculator.Presentation.WebApi.csproj"
+              },
+              "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Core.Application\\AirportDistanceCalculator.Core.Application.csproj": {
+                "projectPath": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Core.Application\\AirportDistanceCalculator.Core.Application.csproj"
+              },
+              "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Infrastructure\\AirportDistanceCalculator.Infrastructure.csproj": {
+                "projectPath": "D:\\Projects\\DistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator\\AirportDistanceCalculator.Infrastructure\\AirportDistanceCalculator.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
